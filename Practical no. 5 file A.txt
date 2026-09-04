@@ -1,0 +1,7 @@
+import math
+num = 16
+print(&quot;Square root:&quot;, math.sqrt(num))
+print(&quot;Factorial:&quot;, math.factorial(5))
+print(&quot;Power:&quot;, math.pow(2, 3))
+print(&quot;Log:&quot;, math.log(10))
+
